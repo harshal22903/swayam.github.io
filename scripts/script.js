@@ -14,7 +14,7 @@ new Vue({
           artist: "Kishor Kumar",
           cover: "img/1.jpg",
           source: "mp3/2.mp3",
-          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          url: "https://youtu.be/9dcBy2uXL7E",
           favorited: false
         },
         {
@@ -22,7 +22,7 @@ new Vue({
           artist: "Saaj Bhatt",
           cover: "img/2.jpg",
           source: "mp3/1.mp3",
-          url: "https://www.youtube.com/watch?v=Lin-a2lTelg",
+          url: "https://youtu.be/Z2KqH8tTycw",
           favorited: true
         },
        
